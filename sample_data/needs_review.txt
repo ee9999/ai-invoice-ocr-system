@@ -1,0 +1,3 @@
+Invoice Number: INV-2026-002
+Vendor: Sample Bakery
+Total: TWD 320
